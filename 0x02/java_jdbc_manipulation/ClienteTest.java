@@ -40,4 +40,5 @@ public class ClienteTest {
         clienteDAOImpl.delete(url, 2);
         clienteDAOImpl.selectAll(url);
     }
+
 }
