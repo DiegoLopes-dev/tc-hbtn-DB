@@ -10,11 +10,11 @@ public class ConnectionSQLite {
     /**
      * Connect to a sample database
      */
-    public static void connect() {
+    public static void initConnection() {
         Connection conn = null;
         try {
             // db parameters
-            String url = "jdbc:sqlite:C:/sqlite/db/chinook.db";
+            String url = "jdbc:sqlite:C:/sqlite/db/sql_schema_sqlite_database_2022.sql";
             // create a connection to the database
             conn = DriverManager.getConnection(url);
 
