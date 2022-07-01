@@ -9,5 +9,8 @@
         <module name="administrativo-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gestao-cursos-api" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

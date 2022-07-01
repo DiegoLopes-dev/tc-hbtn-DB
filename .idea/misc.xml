@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/administrativo-api/pom.xml" />
         <option value="$PROJECT_DIR$/jpa_hibernate/administrativo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gestao-cursos-api/pom.xml" />
       </list>
     </option>
   </component>
